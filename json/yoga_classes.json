@@ -1,0 +1,42 @@
+{
+    "hatha_yoga":{
+        "mon":[],
+        "tue":[],
+        "wed":[],
+        "thu":[],
+        "fri":[]
+
+    },
+    "iyengar_yoga":{
+        "mon":[],
+        "tue":[],
+        "wed":[],
+        "thu":[],
+        "fri":[]
+
+    },
+    "kundalini_yoga":{
+        "mon":[],
+        "tue":[],
+        "wed":[],
+        "thu":[],
+        "fri":[]
+
+    },
+    "ashtanga_yoga":{
+        "mon":[],
+        "tue":[],
+        "wed":[],
+        "thu":[],
+        "fri":[]
+
+    },
+    "Jivamukti yoga":{
+        "mon":[],
+        "tue":[],
+        "wed":[],
+        "thu":[],
+        "fri":[]
+
+    }
+}

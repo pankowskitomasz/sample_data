@@ -1,0 +1,77 @@
+{
+    "accidents":[
+        {
+            "code":"AC1",
+            "name":"Martin Dodson v Kent Property Contracts Limited",
+            "description":"artin was instructed to work on a warehouse roof. He was not given any protective equipment such as a safety harness to use whilst carrying out his work. As Martin turned towards his colleague to relay instructions he stepped onto a skylight which immediately gave way under him resulting in Martin falling some 23 feet. Martin sustained multiple injuries. He tried to return to his carpentry work but, as a result of serious back pain, he was unable to work a full day or week. He therefore retrained as a CCTV operator. His employer denied liability but, as a result of our legal representations, the employer admitted responsibility. However, three years after their admission they tried to partially blame Martin for the accident in an attempt to significantly reduce the amount of compensation he would receive. We pursued the matter to a court hearing and the Court agreed with us that Martin was not partially responsible for his accident. He received compensation of £283,000."
+        },
+        {
+            "code":"AC2",
+            "name":"Mindu Kaur (Widow) v Sigmacast Iron Limited",
+            "description":"We acted for Mindu Kaur, the widow of Mohinder Singh. Mohinder worked at a factory in Birmingham which was due to be shut down within a matter of days of his death. He had been employed there for several years as a shot blast operator and forklift truck driver. The factory was in the process of decommissioning with a view to closure. Mohinder was driving a forklift truck with an empty hopper on the fork and the right wheel struck the end of a concrete kerb set in the floor causing the forklift truck to tilt to the left and tip over. As the forklift truck fell on its side, Mohinder was trapped causing a traumatic blunt head injury from which he immediately died. We commenced court proceedings in the High Court for Mindu and her two dependent children and the matter settled out of court."
+        }
+    ],
+    "bankrupcy":[
+        {
+            "code":"BN1",
+            "name":"An Excavation of Sanchez Energy Corporation",
+            "description":"The decline and volatility in commodity prices from 2014 to 2016 wreaked havoc on SN and other oil & gas companies. In 2014, oil prices dropped from $100 per barrel to only $26 per barrel in February 2016.19 SN took numerous actions to keep the company afloat, such as changing operational strategies, reducing overhead structure, and disposing of assets to obtain cash.20 Then, in 2018, SN sought the services of Moelis & Company, as well as Akin Gump Strauss Hauer & Feld LLP and Alvarez & Marsal North America, LLC for restructuring advice.21 SN also appointed "
+        }
+    ],
+    "business_contracts":[
+        {
+            "code":"BC1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "capital_market":[
+        {
+            "code":"CM1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "child_welfare":[
+        {
+            "code":"CW1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "copyrights":[
+        {
+            "code":"CP1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "criminal_code":[
+        {
+            "code":"CC1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "family_law":[
+        {
+            "code":"FL1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "immigration":[
+        {
+            "code":"IM1",
+            "name":"",
+            "description":""
+        }
+    ],
+    "public_health":[
+        {
+            "code":"PH1",
+            "name":"",
+            "description":""
+        }
+    ]
+}

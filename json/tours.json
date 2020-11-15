@@ -1,0 +1,29 @@
+{
+    "country":[
+        {
+            "id":0,
+            "name":"West Coast Tour",
+            "country":"USA",
+            "price":1300,
+            "description":"Four days long tour along west coast of USA. Price includes three nights in three-star hotels.",
+            "startpoint":"",
+            "endpoint":"",
+            "duration":0,
+            "startdate":"",
+            "enddate":""
+        },
+        {
+            "id":1,
+            "name":"",
+            "country":"",
+            "price":0,
+            "description":"",
+            "startpoint":"",
+            "endpoint":"",
+            "duration":0,
+            "startdate":"",
+            "enddate":""
+        }
+    ],
+    "local":[]
+}
